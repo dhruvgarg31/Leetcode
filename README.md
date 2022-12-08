@@ -2,8 +2,6 @@
 LeetCode
 ========
 
-By => Dhruv Garg
-
 ### LeetCode Algorithm
 
 
